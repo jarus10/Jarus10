@@ -29,7 +29,7 @@
 ---
 
 ## 📂 Projects
-- 🔒 [Basic Port Scanner](https://github.com/yourusername/port-scanner)
+- 🔒 [Basic Python Security Toolkit](https://github.com/jarus10/python-script.git)
 - 🐚 [Linux PrivEsc Cheatsheet](https://github.com/yourusername/linux-privesc-notes)
 - 🧰 [Pentest Toolkit](https://github.com/yourusername/pentest-toolkit)
 
