@@ -22,7 +22,7 @@
 ---
 
 ## 🧪 Labs & Platforms
-- 🧠 [TryHackMe Profile](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4866363" style='border:none;'></iframe>)
+- 🧠 [TryHackMe Profile](https://tryhackme.com/p/suraj777m.r)
 <!-- 🧱 [Hack The Box](https://app.hackthebox.com/profile/yourusername)-->
 - ⚙️ Working on personal labs using VirtualBox & Proxmox
 
